@@ -9,10 +9,10 @@
 
 // Your code:
 
-const str = 'Sun';
-const num = 16;
-const bool = true;
-const x; 
+const str = '1337';
+const num = 42;
+const bool = false;
+const undef = undefined;
 
 //* Begin of tests
 const assert = require('assert');
