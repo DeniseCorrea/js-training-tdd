@@ -8,6 +8,16 @@
 
 // Your code:
 
+function total(list) {
+    let sum = 0;
+    for (let i = 0; i < list.length; ++i) {
+        sum = sum + list[i];
+    }
+    return sum;
+}
+
+
+
 //* Begin of tests
 const assert = require('assert');
 
