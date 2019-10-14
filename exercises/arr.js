@@ -8,7 +8,7 @@
 
 // Your code:
 
-const = arr[2,4];
+const arr = [2,4]
 
 //* Begin of tests
 const assert = require('assert');
