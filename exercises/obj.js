@@ -10,10 +10,10 @@
 // Your code:
 
 const obj = {
-    obj.str = '1337'
-    obj.num = 42
-    obj.bool = false
-    obj.undef = undefined
+    str = '1337'
+    num = 42
+    bool = false
+    undef = undefined
 }
 
 //* Begin of tests
