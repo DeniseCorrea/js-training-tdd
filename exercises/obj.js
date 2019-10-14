@@ -10,9 +10,9 @@
 // Your code:
 
 const obj = {
-    str: '1337'
-    num: 42
-    bool: false
+    string: '1337'
+    number: 42
+    boolean: false
     undef: undefined
 }
 
