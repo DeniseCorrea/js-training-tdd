@@ -9,6 +9,11 @@
 
 // Your code:
 
+const str = 'Sun';
+const num = 16;
+const bool = true;
+const x; 
+
 //* Begin of tests
 const assert = require('assert');
 
