@@ -9,11 +9,11 @@
 
 // Your code:
 
-const obj = {
-    string: '1337'
-    number: 42
-    boolean: false
-    undef: undefined
+let obj = {
+    obj.str: '1337'
+    obj.num: 42
+    obj.bool: false
+    obj.undef: undefined
 }
 
 //* Begin of tests
