@@ -9,6 +9,10 @@
 
 // Your code:
 
+function getLast(frajola) {
+    return frajola[frajola.length - 1];
+}
+
 //* Begin of tests
 const assert = require('assert');
 
