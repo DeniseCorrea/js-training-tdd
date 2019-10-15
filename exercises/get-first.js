@@ -9,6 +9,10 @@
 
 // Your code:
 
+function getFirst(patolino) {
+    return patolino[0];
+}
+
 //* Begin of tests
 const assert = require('assert');
 
